@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.mediagaps.com">
-    <img alt="MEDIAGAPS Caps Demo Arib to Srt " src="http://www.mediagaps.com/wp-content/uploads/2020/07/capsArtboard-95.png" >
+    <img alt="MEDIAGAPS Caps Demo Arib to Srt " src="http://www.mediagaps.com/wp-content/uploads/2020/07/capsARIB.png" >
   </a>
   <h4 align="center">
     Demo Arib to Srt 
