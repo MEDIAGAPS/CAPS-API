@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/badge/license-Apache 2.0-9cf" alt=""></img></a>
   </p>
 
-# caps_teste
+# CAPS.S
 
 Cap.s is Mediagaps’new project for manipulation of different closed captions & subtitles. 
 
