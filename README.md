@@ -16,7 +16,7 @@ Cap.s is Mediagaps’new project for manipulation of different closed captions &
 
 The goal is to create an API that will enable extraction, conversion and insertion of different Closed Captions and subtitles formats.
 
- - Extractrion - Ability to extract an subtitles and saved them into a file format
+ - Extraction - Ability to extract an subtitles and saved them into a file format
 
  - Conversion - Convert from/to functions 
 
